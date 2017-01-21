@@ -3,7 +3,7 @@ using System.Collections;
 
 public class TileController : MonoBehaviour
 {
-	public GameObject Cube;
+
     public Vector3 tilePos;
     public bool occupied = false;
     public int wallType = 0;
@@ -13,7 +13,7 @@ public class TileController : MonoBehaviour
 
     public void intitialised()
     {
-        //Debug.Log("Init");
+        Debug.Log("Init");
     }
 
     public void tileClicked()
@@ -29,10 +29,9 @@ public class TileController : MonoBehaviour
                 if(!occupied)
                 {
                     Debug.Log("Build new wall");
-					occupied = true;
-					// Build the wall
-					GameObject tempTile = (Instantiate(Cube, tilePos, Quaternion.identity) as GameObject);
-					tempTile.transform.Translate(0,(Cube.transform.localScale.y/2),0);
+                    // Build the wall
+
+                    occupied = true;
                 }
             }
             else
