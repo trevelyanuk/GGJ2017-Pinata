@@ -68,6 +68,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\STEVE\Scripts\Controllers\GameController.cs" />
+    <Compile Include="Assets\STEVE\Scripts\Controllers\NpcController.cs" />
     <Compile Include="Assets\STEVE\Scripts\Controllers\TileController.cs" />
     <Compile Include="Assets\STEVE\Scripts\Spawners\FloorSpawner.cs" />
   </ItemGroup>
