@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 2890053d2fc378a4c96c534c8c03fe01
+timeCreated: 1485018974
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MoneySpritesheet_0
+    21300002: MoneySpritesheet_1
+    21300004: MoneySpritesheet_2
+    21300006: MoneySpritesheet_3
+    21300008: MoneySpritesheet_4
+    21300010: MoneySpritesheet_5
+    21300012: MoneySpritesheet_6
+    21300014: MoneySpritesheet_7
+    21300016: MoneySpritesheet_8
+    21300018: MoneySpritesheet_9
+    21300020: MoneySpritesheet_10
+    21300022: MoneySpritesheet_11
+    21300024: MoneySpritesheet_12
+    21300026: MoneySpritesheet_13
+    21300028: MoneySpritesheet_14
+    21300030: MoneySpritesheet_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MoneySpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 128}
+        - {x: -28, y: 124}
+        - {x: -81, y: 68}
+        - {x: -81, y: -77}
+        - {x: -42, y: -128}
+        - {x: 19, y: -128}
+        - {x: 86, y: -88}
+        - {x: 86, y: 88}
+        - {x: 31, y: 128}
+    - name: MoneySpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 128}
+        - {x: -30, y: 124}
+        - {x: -83, y: 68}
+        - {x: -83, y: -77}
+        - {x: -44, y: -128}
+        - {x: 17, y: -128}
+        - {x: 84, y: -88}
+        - {x: 84, y: 88}
+        - {x: 29, y: 128}
+    - name: MoneySpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 128}
+        - {x: -81, y: 91}
+        - {x: -81, y: -101}
+        - {x: -37, y: -128}
+        - {x: 28, y: -128}
+        - {x: 81, y: -67}
+        - {x: 81, y: 81}
+        - {x: 20, y: 128}
+    - name: MoneySpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 128}
+        - {x: -66, y: 111}
+        - {x: -66, y: -94}
+        - {x: -51, y: -128}
+        - {x: 36, y: -128}
+        - {x: 66, y: -104}
+        - {x: 66, y: 128}
+    - name: MoneySpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 128}
+        - {x: -30, y: 117}
+        - {x: -37, y: 76}
+        - {x: -37, y: -82}
+        - {x: -17, y: -128}
+        - {x: 33, y: -128}
+        - {x: 42, y: -76}
+        - {x: 42, y: 75}
+        - {x: 25, y: 128}
+    - name: MoneySpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 128}
+        - {x: -24, y: -102}
+        - {x: -17, y: -128}
+        - {x: 21, y: -128}
+        - {x: 26, y: -99}
+        - {x: 26, y: 116}
+        - {x: 25, y: 128}
+    - name: MoneySpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: -34}
+        - {x: 55, y: -27}
+        - {x: 55, y: 66}
+        - {x: 54, y: 79}
+        - {x: 23, y: 128}
+        - {x: -31, y: 128}
+        - {x: -54, y: 75}
+        - {x: -54, y: -81}
+        - {x: -25, y: -128}
+        - {x: 21, y: -128}
+        - {x: 54, y: -80}
+        - {x: 55, y: -76}
+        - {x: 55, y: -36}
+    - name: MoneySpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 73}
+        - {x: 57, y: 77}
+        - {x: 21, y: 128}
+        - {x: -28, y: 128}
+        - {x: -75, y: 65}
+        - {x: -75, y: 42}
+        - {x: -66, y: 33}
+        - {x: -75, y: 17}
+        - {x: -75, y: -70}
+        - {x: -66, y: -76}
+        - {x: -30, y: -128}
+        - {x: 51, y: -128}
+        - {x: 76, y: -76}
+        - {x: 76, y: 64}
+    - name: MoneySpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -36}
+        - {x: 66, y: -33}
+        - {x: 83, y: -17}
+        - {x: 83, y: 68}
+        - {x: 34, y: 128}
+        - {x: -24, y: 128}
+        - {x: -87, y: 105}
+        - {x: -87, y: -86}
+        - {x: -19, y: -128}
+        - {x: 17, y: -128}
+        - {x: 23, y: -117}
+        - {x: 83, y: -73}
+        - {x: 83, y: -45}
+    - name: MoneySpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 68}
+        - {x: 19, y: 128}
+        - {x: -45, y: 128}
+        - {x: -85, y: 73}
+        - {x: -85, y: -69}
+        - {x: -73, y: -76}
+        - {x: -17, y: -128}
+        - {x: 16, y: -128}
+        - {x: 22, y: -121}
+        - {x: 23, y: -115}
+        - {x: 84, y: -70}
+    - name: MoneySpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 128}
+        - {x: -77, y: 98}
+        - {x: -77, y: 40}
+        - {x: -67, y: 33}
+        - {x: -77, y: 8}
+        - {x: -77, y: -64}
+        - {x: -76, y: -67}
+        - {x: -62, y: -110}
+        - {x: -26, y: -128}
+        - {x: 54, y: -128}
+        - {x: 77, y: -68}
+        - {x: 77, y: 100}
+        - {x: 59, y: 128}
+    - name: MoneySpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 128}
+        - {x: -53, y: 75}
+        - {x: -53, y: -84}
+        - {x: -27, y: -128}
+        - {x: 30, y: -128}
+        - {x: 55, y: -77}
+        - {x: 55, y: 81}
+        - {x: 28, y: 128}
+    - name: MoneySpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 128}
+        - {x: -29, y: 93}
+        - {x: -29, y: -106}
+        - {x: -27, y: -127}
+        - {x: -19, y: -128}
+        - {x: 19, y: -128}
+        - {x: 21, y: -126}
+        - {x: 21, y: 106}
+        - {x: 15, y: 128}
+    - name: MoneySpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 128}
+        - {x: -40, y: 81}
+        - {x: -40, y: -81}
+        - {x: -20, y: -120}
+        - {x: -16, y: -128}
+        - {x: 30, y: -128}
+        - {x: 42, y: -79}
+        - {x: 42, y: 99}
+        - {x: 32, y: 128}
+    - name: MoneySpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 128}
+        - {x: -67, y: 104}
+        - {x: -67, y: -78}
+        - {x: -20, y: -128}
+        - {x: 20, y: -128}
+        - {x: 66, y: -75}
+        - {x: 66, y: 107}
+        - {x: 48, y: 128}
+    - name: MoneySpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 40}
+        - {x: 82, y: 99}
+        - {x: 26, y: 128}
+        - {x: -46, y: 128}
+        - {x: -82, y: 77}
+        - {x: -82, y: -96}
+        - {x: -23, y: -128}
+        - {x: 46, y: -128}
+        - {x: 82, y: -70}
+        - {x: 82, y: 13}
+        - {x: 70, y: 25}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

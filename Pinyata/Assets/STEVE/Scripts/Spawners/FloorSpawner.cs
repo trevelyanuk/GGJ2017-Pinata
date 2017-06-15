@@ -10,10 +10,6 @@ public class FloorSpawner : MonoBehaviour
     {
         genFloor();
     }
-    public Vector3 getFloorSize()
-    {
-        return new Vector2(width, height);
-    }
     public void genFloor()
     {
         for (int i = 0; i <= width; i++)
@@ -29,16 +25,22 @@ public class FloorSpawner : MonoBehaviour
                 TileController tempController = tempTile.GetComponent<TileController>();
                 tempController.tilePos = position;
 
+                Material newMaterial = new Material(Shader.Find("Diffuse"));
+                Color32 newColour = new Color32(255, 128, 128, 255);
+                
+
                 if (j == height-2)
                 {
-                    Material yellowMat = new Material(Shader.Find("Diffuse"));
-                    Color32 yellow = new Color32(255, 255, 0, 255);
-                    Renderer rend = tempTile.GetComponent<Renderer>();
-                    rend.material = yellowMat;
-                    yellowMat.color = yellow;
+
+                    newColour = new Color32(255, 255, 0, 255);
+
                     tempController.isWallCapable = true;
                     tempController.intitialised();
                 }
+
+                newMaterial.color = newColour;
+                Renderer rend = tempTile.GetComponent<Renderer>();
+                rend.material = newMaterial;
             }
         }
     }
